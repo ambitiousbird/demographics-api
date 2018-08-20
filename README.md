@@ -25,13 +25,13 @@ Build with [Create React App](https://github.com/facebook/create-react-app).
 ## Basic Functionalities
 
 - User Signup
-![user sign up page](./signUp.png)
+![user sign up page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/signUp.png)
 - User Signin
-![user sign in page](./signIn.png)
+![user sign in page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/signIn.png
 - Logged in Page
-![logged in page](./loggedIn.png)
+![logged in page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/loggedIn.png)
 - Demographics Analysis
-![Demographic analysis page](./Demographics.png)
+![Demographic analysis page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/Demographics.png)
 
 ## Demographics analysis API
 - Connecting to [Clarifi API](https://clarifai.com/models/demographics-image-recognition-model-c0c0ac362b03416da06ab3fa36fb58e3)
