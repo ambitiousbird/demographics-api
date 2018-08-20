@@ -27,7 +27,7 @@ Build with [Create React App](https://github.com/facebook/create-react-app).
 - User Signup
 ![user sign up page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/signUp.png)
 - User Signin
-![user sign in page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/signIn.png
+![user sign in page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/signIn.png)
 - Logged in Page
 ![logged in page](https://raw.githubusercontent.com/ambitiousbird/demographics/master/loggedIn.png)
 - Demographics Analysis
